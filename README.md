@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #backend
 
     npm install express mongoose nodemon dotenv cors bcryptjs
@@ -22,3 +23,6 @@ npx tailwindcss init -p
 
 *starting frontend*
     npm run dev
+=======
+# Login-Register-Dashboard-
+>>>>>>> 3b5228d54adb1a6f65609cc0501f5a8392cbad1a
