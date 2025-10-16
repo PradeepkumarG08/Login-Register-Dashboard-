@@ -1,0 +1,21 @@
+    /* src/index.css */
+    
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
+
+body {
+  @apply text-gray-800;
+  @apply bg-blue-300;
+}
+
+@layer components {
+  button {
+    @apply rounded-full transition-all duration-300;
+  }
+
+  button:hover {
+    @apply scale-105;
+  }
+}
